@@ -1,6 +1,6 @@
 public class Student {
-	protected String name;
-	protected int mark;
+	package String name;
+	package int mark;
 
 	public void setName(String n) {
 		name = n;

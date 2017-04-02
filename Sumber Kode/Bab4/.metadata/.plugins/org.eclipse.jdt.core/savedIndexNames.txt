@@ -3,9 +3,9 @@ INDEX VERSION 1.129+C:\Users\Kesit\Documents\GITHUB\Pemlan\Sumber Kode\Bab4\.met
 1000147613.index
 3371159263.index
 766596693.index
-3972726963.index
-1738363733.index
 2674475739.index
+1738363733.index
+3972726963.index
 3916428639.index
 1737343993.index
 1094395942.index
